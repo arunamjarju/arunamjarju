@@ -76,7 +76,7 @@ My research interests include applying **AI, machine learning, data analytics, G
 
 ## 🎓 Academic & Research Profiles
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=7oB9KcwAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--1806--5983-green?logo=orcid)](https://orcid.org/0009-0001-1806-5983)
 
