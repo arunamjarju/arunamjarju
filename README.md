@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="Dr_Aruna_Jarju_GitHub_Banner.png"
+       width="100%"
+       alt="Dr. Aruna M. Jarju Research Profile">
+</p>
 <!-- ========================================================= -->
 <!--             DR. ARUNA M. JARJU | GITHUB PROFILE           -->
 <!-- ========================================================= -->
