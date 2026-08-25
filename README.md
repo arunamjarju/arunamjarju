@@ -1,641 +1,642 @@
 <!-- ========================================================= -->
-
-<!--                 DR. ARUNA M. JARJU                        -->
-
-<!--              ACADEMIC RESEARCH PORTFOLIO                  -->
-
+<!--        DR. ARUNA M. JARJU | PROFESSIONAL GITHUB PROFILE   -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=DR.%20ARUNA%20M.%20JARJU&fontSize=46&fontAlignY=38&desc=RESEARCH%20%E2%80%A2%20DATA%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20SUSTAINABILITY&descAlignY=57&animation=fadeIn&color=0:071426,45:123B56,75:0E6673,100:0B7285&fontColor=FFFFFF&descColor=D9F3F5"
+    src="Dr_Aruna_Jarju_GitHub_Banner.png"
     width="100%"
-    alt="Dr. Aruna M. Jarju — Academic Research Portfolio"
-  />
-</p>
-
-
-
-<h1 align="center">DR. ARUNA M. JARJU</h1>
-
-<h3 align="center">RESEARCHER &nbsp; • &nbsp; DATA SCIENTIST &nbsp; • &nbsp; EDUCATOR</h3>
-
-<p align="center">
-  <strong>
-    Artificial Intelligence · Data Science · Sustainable Computing · Renewable Energy · GIS
-  </strong>
-</p>
-
-<p align="center">
-  Director, <strong>KGS – Academic Support Services</strong><br>
-  Monroe University
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=850&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Science+%26+Predictive+Analytics;GIS+%26+Remote+Sensing;Green+Computing+%26+Renewable+Energy;Research+for+Sustainable+Development"
-    alt="Research Interests"
+    alt="Dr. Aruna M. Jarju Research Profile"
   />
 </p>
 
 <br>
 
-<!-- ======================= NAVIGATION ======================= -->
+<!-- ===================== NAVIGATION ===================== -->
 
 <p align="center">
-
-<a href="#about">
-  <img src="https://img.shields.io/badge/ABOUT-0F172A?style=for-the-badge">
-</a>
-
-<a href="#research">
-  <img src="https://img.shields.io/badge/RESEARCH-164E63?style=for-the-badge">
-</a>
-
-<a href="#projects">
-  <img src="https://img.shields.io/badge/PROJECTS-0F766E?style=for-the-badge">
-</a>
-
-<a href="#expertise">
-  <img src="https://img.shields.io/badge/EXPERTISE-155E75?style=for-the-badge">
-</a>
-
-<a href="#profiles">
-  <img src="https://img.shields.io/badge/ACADEMIC%20PROFILES-1E3A5F?style=for-the-badge">
-</a>
-
-<a href="#collaboration">
-  <img src="https://img.shields.io/badge/COLLABORATE-134E4A?style=for-the-badge">
-</a>
-
+  <a href="#about">
+    <img src="https://img.shields.io/badge/👤%20ABOUT-EAF4F8?style=for-the-badge">
+  </a>
+  <a href="#research">
+    <img src="https://img.shields.io/badge/🔬%20RESEARCH-ECF7F5?style=for-the-badge">
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/🚀%20PROJECTS-F4F8EE?style=for-the-badge">
+  </a>
+  <a href="#toolkit">
+    <img src="https://img.shields.io/badge/🛠️%20TOOLKIT-EEF4FA?style=for-the-badge">
+  </a>
+  <a href="#profiles">
+    <img src="https://img.shields.io/badge/🎓%20PROFILES-F4F2FA?style=for-the-badge">
+  </a>
+  <a href="#collaboration">
+    <img src="https://img.shields.io/badge/🤝%20COLLABORATE-EDF8F2?style=for-the-badge">
+  </a>
 </p>
+
+<br>
+
+<!-- ===================== PROFILE LINKS ===================== -->
 
 <p align="center">
 
 <a href="https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 
 <a href="https://orcid.org/0009-0001-1806-5983">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/aruna-m-jarju-bs-bba-mba-ph-d-92165573/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://independent.academia.edu/ArunaMJarju">
-  <img src="https://img.shields.io/badge/Academia.edu-41454A?style=flat-square">
+  <img src="https://img.shields.io/badge/Academia.edu-555555?style=for-the-badge">
+</a>
+
+<a href="https://github.com/arunamjarju?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
 
 <br>
+
+---
 
 <a id="about"></a>
 
-<h2 align="center">👤 &nbsp; ABOUT</h2>
+## 👤 About Dr. Jarju
 
-<p align="center">
-  <strong>Research at the intersection of computation, data, sustainability, and real-world impact.</strong>
-</p>
+<table>
+<tr>
+
+<td width="67%" valign="top">
+
+### Researcher · Data Scientist · Educator
+
+Dr. Aruna M. Jarju works at the intersection of **Artificial Intelligence, Data Science, Sustainable Computing, Renewable Energy, GIS, Remote Sensing, Telecommunications, and Applied Research**.
+
+His research focuses on developing **data-driven and computational solutions** for real-world challenges involving energy efficiency, environmental sustainability, telecommunications, agriculture, intelligent systems, and sustainable development.
+
+He currently serves as **Director of KGS – Academic Support Services at Monroe University**, supporting academic research, quantitative analysis, interdisciplinary scholarship, technology education, and research development.
+
+> **Research philosophy:** Transform data into knowledge, knowledge into innovation, and innovation into meaningful impact.
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<img
+src="https://github.com/arunamjarju.png"
+width="210"
+alt="Dr. Aruna M. Jarju"
+/>
+
+<br>
+
+### Dr. Aruna M. Jarju
+
+**Monroe University**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <p align="center">
-I am a researcher, data scientist, and educator whose work brings together
-<strong>Artificial Intelligence, Data Science, Sustainable Computing,
-Renewable Energy, GIS, Remote Sensing, Telecommunications, and Applied Research.</strong>
+
+### 📊 DATA → 💡 INSIGHT → ⚙️ INNOVATION → 🌍 IMPACT
+
 </p>
 
-<p align="center">
-My research focuses on developing computational and data-driven approaches
-for challenges involving energy efficiency, environmental sustainability,
-intelligent systems, telecommunications, agriculture, and sustainable development.
-</p>
-
-<p align="center">
-I currently serve as <strong>Director of KGS – Academic Support Services at Monroe University</strong>,
-supporting academic research, quantitative analysis, interdisciplinary scholarship,
-technology education, and research development.
-</p>
-
-<br>
-
-<p align="center">
-  <strong>DATA → KNOWLEDGE → INNOVATION → IMPACT</strong>
-</p>
-
-<br>
-
-<h2 align="center">🌐 &nbsp; RESEARCH LANDSCAPE</h2>
-
-<p align="center">
-  <img
-    src="https://zherongwu-cuhk.github.io/images/Earth%20Observation1.jpg"
-    width="30%"
-    alt="GIS and Remote Sensing"
-  />
-  &nbsp;
-  <img
-    src="https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=900&q=80"
-    width="30%"
-    alt="Renewable Energy"
-  />
-  &nbsp;
-  <img
-    src="https://ai-app-work-cdn.b-cdn.net/img/zerna/zerna/engineering/engineering-llm-research/engineering-model-optimization/engineering-paper-2502_14910.webp"
-    width="30%"
-    alt="Artificial Intelligence"
-  />
-</p>
-
-<p align="center">
-  <strong>EARTH INTELLIGENCE</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>SUSTAINABLE ENERGY</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>AI & COMPUTATION</strong>
-</p>
-
-<br>
-
-<p align="center">
-GIS & Remote Sensing &nbsp; • &nbsp;
-Renewable Energy &nbsp; • &nbsp;
-Artificial Intelligence &nbsp; • &nbsp;
-Data Analytics
-</p>
+---
 
 <a id="research"></a>
 
-<h2 align="center">🔬 &nbsp; RESEARCH DOMAINS</h2>
+## 🔬 Research Portfolio
 
 <p align="center">
-  My research spans computational science, sustainability, environmental intelligence,
-  telecommunications, and interdisciplinary data analytics.
+
+**Interdisciplinary research connecting computing, data, sustainability, and real-world applications**
+
 </p>
 
 <br>
 
-<details open>
-<summary><strong>🤖 &nbsp; Artificial Intelligence & Data Science</strong></summary>
+<table>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🤖
+## AI & Data Science
+
+Machine learning, predictive analytics, statistical modeling, intelligent systems, and data-driven decision support.
 
 <br>
 
-Machine learning, predictive analytics, statistical modeling, intelligent systems,
-data-driven decision support, and interdisciplinary computational research.
+`Machine Learning`
 
-<br><br>
+`Data Science`
 
-Machine Learning  
-Data Science  
-Predictive Analytics  
-Statistical Analysis
+`Predictive Analytics`
 
-</details>
+`Statistics`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🛰️
+## GIS & Remote Sensing
+
+Spatial analytics, Earth observation, NDVI, land-use analysis, vegetation monitoring, and environmental intelligence.
+
+<br>
+
+`GIS`
+
+`QGIS`
+
+`Remote Sensing`
+
+`NDVI`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ☀️
+## Renewable Energy
+
+Solar PV, biogas resources, energy analytics, sustainable infrastructure, and environmental sustainability.
+
+<br>
+
+`Solar Energy`
+
+`Solar PV`
+
+`Biogas`
+
+`Sustainability`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🌱
+## Green Computing
+
+Energy-aware computing, computational efficiency, resource optimization, and sustainable high-performance computing.
+
+`Green Computing`
+
+`HPC`
+
+`Optimization`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 📡
+## Telecommunications
+
+Cellular connectivity, network performance, telecommunications infrastructure, and spatial network analysis.
+
+`Network Analytics`
+
+`Connectivity`
+
+`Telecommunications`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎓
+## Computing Education
+
+Technology education, quantitative methods, academic research support, and interdisciplinary scholarship.
+
+`Research Methods`
+
+`Education`
+
+`Academic Support`
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
 <details>
-<summary><strong>🌱 &nbsp; Sustainable & Green Computing</strong></summary>
+
+<summary><strong>🔎 Explore Research Areas in Detail</strong></summary>
 
 <br>
 
-Energy-aware computing, high-performance computing, computational efficiency,
-resource optimization, and environmentally responsible digital infrastructure.
+### 🤖 Artificial Intelligence & Machine Learning
 
-<br><br>
+Machine learning, intelligent systems, statistical learning, predictive modeling, and computational approaches for decision support.
 
-Green Computing  
-HPC  
-Optimization  
-Energy Efficiency
+---
+
+### 📊 Data Science & Analytics
+
+Statistical analysis, predictive analytics, data visualization, quantitative research, and evidence-based decision-making.
+
+---
+
+### 🛰️ GIS & Earth Observation
+
+Geospatial analysis, remote sensing, NDVI, vegetation monitoring, environmental assessment, and land-use research.
+
+---
+
+### 🌱 Sustainable Computing
+
+Green computing, energy-aware systems, cloud computing, high-performance computing, and computational optimization.
+
+---
+
+### ☀️ Renewable Energy
+
+Solar photovoltaic systems, biogas resources, institutional energy assessment, and sustainable infrastructure.
+
+---
+
+### 📡 Telecommunications
+
+Network performance analysis, cellular connectivity, regional telecommunications systems, and spatial network research.
 
 </details>
 
 <br>
 
-<details>
-<summary><strong>🛰️ &nbsp; GIS, Remote Sensing & Environmental Intelligence</strong></summary>
-
-<br>
-
-Application of geographic information systems and Earth-observation data to
-vegetation analysis, environmental change, land-use assessment, spatial analytics,
-and climate-related research.
-
-<br><br>
-
-GIS  
-QGIS  
-Remote Sensing  
-NDVI  
-Spatial Analytics
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>☀️ &nbsp; Renewable Energy & Sustainability</strong></summary>
-
-<br>
-
-Research involving solar photovoltaic systems, biogas resources,
-energy analytics, sustainable infrastructure, and renewable-energy applications.
-
-<br><br>
-
-Solar Energy  
-Biogas  
-Energy Analytics  
-Sustainability
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>📡 &nbsp; Telecommunications & Network Analytics</strong></summary>
-
-<br>
-
-Quantitative and geospatial investigation of cellular networks, network performance,
-regional connectivity, and telecommunications infrastructure.
-
-<br><br>
-
-Telecommunications  
-Network Analytics  
-Connectivity  
-Spatial Analysis
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🎓 &nbsp; Computing Education & Academic Research</strong></summary>
-
-<br>
-
-Technology education, research methodology, academic research support,
-quantitative methods, interdisciplinary scholarship, and student research development.
-
-<br><br>
-
-Computing Education  
-Research Methods  
-Academic Research
-
-</details>
-
-<br>
+---
 
 <a id="projects"></a>
 
-<h2 align="center">🚀 &nbsp; SELECTED RESEARCH & PROJECTS</h2>
-
-<p align="center">
-  <strong>A portfolio of applied research connecting technology with practical challenges.</strong>
-</p>
-
-<br>
-
-<h3 align="center">🌿 &nbsp; Rainfall–NDVI & Vegetation Analysis</h3>
-
-<div align="center">
-
-Geospatial and remote-sensing research investigating relationships among
-rainfall variability, vegetation dynamics, and environmental conditions.
-
-Research focus:
-GIS · NDVI · Remote Sensing · Environmental Analytics
-
-</div>
-
-<br>
-
-<h3 align="center">⚡ &nbsp; Energy-Aware & Green Scheduling</h3>
-
-<div align="center">
-
-Research into computational strategies designed to improve system performance
-while reducing energy consumption and environmental impact.
-
-Research focus:
-Green Computing · HPC · Optimization · Energy Efficiency
-
-</div>
-
-<br>
-
-<h3 align="center">📡 &nbsp; Mobile Network Performance — The Gambia</h3>
-
-<div align="center">
-
-Data-driven assessment of cellular network performance, regional connectivity,
-and telecommunications infrastructure using quantitative and spatial methods.
-
-Research focus:
-Telecommunications · Network Analytics · GIS
-
-</div>
-
-<br>
-
-<h3 align="center">☀️ &nbsp; Institutional Solar PV Load Analysis</h3>
-
-<div align="center">
-
-Assessment of institutional energy requirements and opportunities for
-solar photovoltaic systems and sustainable energy infrastructure.
-
-Research focus:
-Solar PV · Energy Analytics · Sustainable Infrastructure
-
-</div>
-
-<br>
-
-<h3 align="center">♻️ &nbsp; Biogas Resource Assessment — The Gambia</h3>
-
-<div align="center">
-
-Investigation of organic resources and their potential contribution to
-renewable-energy generation and sustainable resource utilization.
-
-Research focus:
-Biogas · Renewable Energy · Sustainability
-
-</div>
-
-<br>
-
-<h3 align="center">🌾 &nbsp; Improved Indirect Solar Mango Dryer</h3>
-
-<div align="center">
-
-Applied research integrating renewable energy, agricultural technology,
-engineering, and sustainable post-harvest preservation.
-
-Research focus:
-Solar Energy · Agriculture · Applied Research
-
-</div>
-
-<br>
-
-<h3 align="center">🗺️ &nbsp; GIS Land-Use / Land-Cover Analysis</h3>
-
-<div align="center">
-
-Application of geospatial methods to understand land-use patterns,
-environmental conditions, vegetation, and geographic change.
-
-Research focus:
-GIS · Spatial Analysis · Remote Sensing
-
-</div>
-
-<br>
-
-<h3 align="center">🧠 &nbsp; Machine Learning & Data Analytics</h3>
-
-<div align="center">
-
-Application of statistical and machine-learning methods to interdisciplinary
-research challenges and real-world datasets.
-
-Research focus:
-Machine Learning · Data Science · Analytics
-
-</div>
-
-<br>
-
-<a id="expertise"></a>
-
-<h2 align="center">🛠️ &nbsp; TECHNICAL & RESEARCH EXPERTISE</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql" alt="Programming Skills"/>
-</p>
-
-<br>
+## 🚀 Selected Research & Projects
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-1E3A5F?style=for-the-badge">
-<img src="https://img.shields.io/badge/STATISTICAL%20ANALYSIS-164E63?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
-<img src="https://img.shields.io/badge/REMOTE%20SENSING-0F766E?style=for-the-badge">
-<img src="https://img.shields.io/badge/SPATIAL%20ANALYTICS-115E59?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827">
-<img src="https://img.shields.io/badge/CLOUD%20COMPUTING-334155?style=for-the-badge">
-<img src="https://img.shields.io/badge/HIGH%20PERFORMANCE%20COMPUTING-475569?style=for-the-badge">
+**Applied Research · Computational Methods · Sustainable Impact**
 
 </p>
 
 <br>
 
-<p align="center">
+<table>
 
-<strong>💻   Programming</strong><br>
-Python · R · SQL
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌿 Rainfall–NDVI & Vegetation Analysis
+
+Geospatial and remote-sensing research examining relationships among rainfall variability, vegetation dynamics, and environmental conditions.
+
+**Research Methods**
+
+`GIS` · `NDVI` · `Remote Sensing`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Energy-Aware & Green Scheduling
+
+Computational research focused on improving system performance while reducing energy consumption and environmental impact.
+
+**Research Methods**
+
+`Green Computing` · `HPC` · `Optimization`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📡 Mobile Network Performance — The Gambia
+
+Quantitative and geospatial investigation of cellular network performance, regional connectivity, and telecommunications infrastructure.
+
+**Research Methods**
+
+`Telecommunications` · `GIS` · `Analytics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☀️ Institutional Solar PV Load Analysis
+
+Assessment of institutional energy demand and opportunities for sustainable photovoltaic infrastructure.
+
+**Research Methods**
+
+`Solar PV` · `Energy Analytics`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ♻️ Biogas Resource Assessment — The Gambia
+
+Investigation of organic resources and their potential contribution to renewable-energy development.
+
+**Research Methods**
+
+`Biogas` · `Renewable Energy`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌾 Improved Indirect Solar Mango Dryer
+
+Applied renewable-energy research combining solar technology, agriculture, engineering, and post-harvest preservation.
+
+**Research Methods**
+
+`Solar Energy` · `Agriculture`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗺️ GIS Land-Use / Land-Cover Analysis
+
+Application of geospatial methods for understanding land-use patterns, environmental conditions, and geographic change.
+
+**Research Methods**
+
+`GIS` · `Spatial Analysis` · `Remote Sensing`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning & Data Analytics
+
+Application of statistical and machine-learning techniques to interdisciplinary datasets and real-world research problems.
+
+**Research Methods**
+
+`Machine Learning` · `Data Science`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<a id="toolkit"></a>
+
+## 🛠️ Research & Technical Toolkit
+
+<div align="center">
+
+### 💻 Programming & Data
+
+<img src="https://img.shields.io/badge/Python-EAF4FF?style=for-the-badge&logo=python&logoColor=3776AB">
+
+<img src="https://img.shields.io/badge/R-EEF4FB?style=for-the-badge&logo=r&logoColor=276DC3">
+
+<img src="https://img.shields.io/badge/SQL-F1F5F9?style=for-the-badge">
 
 <br><br>
 
-<strong>📊   Data & Analytics</strong><br>
-Machine Learning · Statistical Analysis · Predictive Analytics · Data Visualization
+### 🤖 Artificial Intelligence & Analytics
+
+<img src="https://img.shields.io/badge/Machine%20Learning-ECFDF5?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Data%20Science-EFF6FF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Predictive%20Analytics-F0FDFA?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Statistical%20Analysis-F5F3FF?style=for-the-badge">
 
 <br><br>
 
-<strong>🗺️   Geospatial</strong><br>
-QGIS · GIS · Remote Sensing · Spatial Analysis · NDVI
+### 🗺️ GIS & Environmental Intelligence
+
+<img src="https://img.shields.io/badge/QGIS-F2FCEB?style=for-the-badge&logo=qgis&logoColor=589632">
+
+<img src="https://img.shields.io/badge/GIS-ECFDF5?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Remote%20Sensing-F0FDFA?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Spatial%20Analytics-ECFEFF?style=for-the-badge">
 
 <br><br>
 
-<strong>☁️   Infrastructure</strong><br>
-Cloud Computing · High-Performance Computing · Networking
+### 📊 Visualization & Computing
 
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-FFFBEA?style=for-the-badge&logo=powerbi&logoColor=B89B00">
 
-<h2 align="center">💡 &nbsp; RESEARCH PHILOSOPHY</h2>
+<img src="https://img.shields.io/badge/Cloud%20Computing-F0F9FF?style=for-the-badge">
 
-<br>
+<img src="https://img.shields.io/badge/HPC-F5F3FF?style=for-the-badge">
 
-<p align="center">
+<img src="https://img.shields.io/badge/Networking-F8FAFC?style=for-the-badge">
 
-<strong>ARTIFICIAL INTELLIGENCE</strong>
-
-↓
-
-<strong>DATA & COMPUTATIONAL SCIENCE</strong>
-
-↓
-
-<strong>GIS · ENERGY · ENVIRONMENT · TELECOMMUNICATIONS</strong>
-
-↓
-
-<strong>INTERDISCIPLINARY APPLIED RESEARCH</strong>
-
-↓
-
-Sustainable Real-World Impact
-
-</p>
+</div>
 
 <br>
 
-<h2 align="center">🎯 &nbsp; CURRENT RESEARCH INTERESTS</h2>
+---
 
-<p align="center">
+## 🌍 Research Framework
 
-AI & Machine Learning for Decision Support
-<br>
-Energy-Efficient & Sustainable Computing
-<br>
-Renewable-Energy Analytics
-<br>
-GIS & Remote-Sensing Applications
-<br>
-Environmental & Climate Analytics
-<br>
-Telecommunications & Network Performance
-<br>
-Sustainable Infrastructure
-<br>
-Technology for Agriculture
-<br>
-Computing Education & Academic Research
+<div align="center">
 
-</p>
+### 🤖 Artificial Intelligence & Machine Learning
+
+⬇
+
+### 📊 Data Science & Analytics
+
+⬇
+
+### 🛰️ GIS · ☀️ Energy · 🌱 Environment · 📡 Telecommunications
+
+⬇
+
+### 🔬 Interdisciplinary Applied Research
+
+⬇
+
+## 🌍 Sustainable Real-World Impact
+
+</div>
+
+<br>
+
+---
+
+## 📌 Current Research Interests
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+- 🤖 AI for decision support
+- 📊 Predictive analytics
+- 🌱 Energy-efficient computing
+- ☀️ Renewable-energy analytics
+- 🛰️ GIS & Earth observation
+
+</td>
+
+<td width="50%" valign="top">
+
+- 🌦️ Climate & vegetation analytics
+- 📡 Telecommunications
+- 🌾 Sustainable agriculture technology
+- ☁️ Cloud & high-performance computing
+- 🎓 Computing education
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <a id="profiles"></a>
 
-<h2 align="center">🎓 &nbsp; ACADEMIC & PROFESSIONAL PROFILES</h2>
+## 🎓 Academic & Professional Profiles
 
 <p align="center">
-  Follow my research, publications, academic activity, and professional work.
-</p>
+
+### Explore Publications · Research · Professional Activity
 
 <br>
 
-<p align="center">
-
 <a href="https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/GOOGLE%20SCHOLAR-View%20Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/GOOGLE%20SCHOLAR-VIEW%20RESEARCH-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 
 <a href="https://orcid.org/0009-0001-1806-5983">
-<img src="https://img.shields.io/badge/ORCID-Researcher%20Record-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+<img src="https://img.shields.io/badge/ORCID-RESEARCHER%20RECORD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="https://www.linkedin.com/in/aruna-m-jarju-bs-bba-mba-ph-d-92165573/">
-<img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://independent.academia.edu/ArunaMJarju">
-<img src="https://img.shields.io/badge/ACADEMIA.EDU-Publications-41454A?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACADEMIA.EDU-ACADEMIC%20PROFILE-555555?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/arunamjarju?tab=repositories">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
 
 <br>
 
-<h2 align="center">📚 &nbsp; EXPLORE MY WORK</h2>
-
-<p align="center">
-
-<a href="https://github.com/arunamjarju?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20RESEARCH%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-<p align="center">
-My repositories represent research and project work across
-<strong>AI, data science, GIS, sustainable computing,
-renewable energy, telecommunications, and applied analytics.</strong>
-</p>
+---
 
 <a id="collaboration"></a>
 
-<h2 align="center">🤝 &nbsp; RESEARCH COLLABORATION</h2>
-
-<p align="center">
-I welcome interdisciplinary collaboration with researchers,
-universities, students, industry partners, government agencies,
-and international organizations.
-</p>
-
-<br>
+## 🤝 Research Collaboration
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0F172A?style=flat-square">
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-164E63?style=flat-square">
-<img src="https://img.shields.io/badge/GREEN%20COMPUTING-0F766E?style=flat-square">
-<img src="https://img.shields.io/badge/RENEWABLE%20ENERGY-166534?style=flat-square">
+### Open to interdisciplinary and international research collaboration
+
+I welcome opportunities to collaborate with **researchers, universities, students, industry partners, government organizations, and international institutions**.
 
 <br>
 
-<img src="https://img.shields.io/badge/GIS%20%26%20REMOTE%20SENSING-155E75?style=flat-square">
-<img src="https://img.shields.io/badge/TELECOMMUNICATIONS-1E3A5F?style=flat-square">
-<img src="https://img.shields.io/badge/SUSTAINABLE%20DEVELOPMENT-134E4A?style=flat-square">
+<img src="https://img.shields.io/badge/🤖%20Artificial%20Intelligence-EFF6FF?style=flat-square">
 
-</p>
+<img src="https://img.shields.io/badge/📊%20Data%20Science-F0F9FF?style=flat-square">
+
+<img src="https://img.shields.io/badge/🌱%20Green%20Computing-F0FDF4?style=flat-square">
 
 <br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/☀️%20Renewable%20Energy-F7FEE7?style=flat-square">
+
+<img src="https://img.shields.io/badge/🛰️%20GIS%20%26%20Remote%20Sensing-ECFEFF?style=flat-square">
+
+<img src="https://img.shields.io/badge/📡%20Telecommunications-EFF6FF?style=flat-square">
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/aruna-m-jarju-bs-bba-mba-ph-d-92165573/">
 <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
- 
-
 <a href="https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20RESEARCH-111827?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20RESEARCH-EEF6FA?style=for-the-badge&logo=googlescholar&logoColor=4285F4">
 </a>
 
 </p>
 
 <br>
 
-<p align="center">
+---
 
-🌍 RESEARCH · DATA · TECHNOLOGY · SUSTAINABILITY
+<div align="center">
 
-<strong>
-Advancing interdisciplinary research through data-driven and computational approaches.
-</strong>
+### 🌍 Research · Innovation · Sustainability · Impact
 
-<br><br>
+**Advancing interdisciplinary research through data-driven and computational approaches.**
+
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=wave&height=130&section=footer&color=0:071426,50:123456,100:0B7285"
-width="100%"
-alt="Footer"
-/>
+src="https://komarev.com/ghpvc/?username=arunamjarju&label=Profile%20Views&color=7EB6C4&style=flat-square"
+alt="Profile Views">
 
-</p>
+</div>
