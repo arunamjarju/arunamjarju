@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero-dr-jarju.png"
+  <img src="hero-dr-jarju.png"
        alt="Dr. Aruna M. Jarju — Researcher, Data Scientist and Educator"
        width="100%" />
 </p>
