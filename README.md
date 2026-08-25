@@ -1,14 +1,26 @@
-
 <!-- ========================================================= -->
+
 <!--        DR. ARUNA M. JARJU | PROFESSIONAL GITHUB PROFILE   -->
+
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="Dr_Aruna_Jarju_GitHub_Banner.png"
+    src="Dr_Aruna_Jarju_Professional_Banner.png"
     width="100%"
-    alt="Dr. Aruna M. Jarju Research Profile"
+    alt="Dr. Aruna M. Jarju — Research, Data, Technology & Sustainability"
   />
+</p>
+
+<p align="center">
+  <strong>AI & DATA SCIENCE</strong> &nbsp; • &nbsp;
+  <strong>SUSTAINABLE COMPUTING</strong> &nbsp; • &nbsp;
+  <strong>RENEWABLE ENERGY</strong> &nbsp; • &nbsp;
+  <strong>GIS & REMOTE SENSING</strong>
+</p>
+
+<p align="center">
+  <strong>Director, KGS – Academic Support Services · Monroe University</strong>
 </p>
 
 <br>
@@ -66,65 +78,39 @@
 
 <br>
 
----
-
 <a id="about"></a>
 
-## 👤 About Dr. Jarju
+<h2 align="center">👤 &nbsp; ABOUT DR. JARJU</h2>
 
-<table>
-<tr>
+<div align="center">
 
-<td width="67%" valign="top">
+Researcher · Data Scientist · Educator
 
-### Researcher · Data Scientist · Educator
+Dr. Aruna M. Jarju works at the intersection of Artificial Intelligence, Data Science, Sustainable Computing, Renewable Energy, GIS, Remote Sensing, Telecommunications, and Applied Research.
 
-Dr. Aruna M. Jarju works at the intersection of **Artificial Intelligence, Data Science, Sustainable Computing, Renewable Energy, GIS, Remote Sensing, Telecommunications, and Applied Research**.
+His research focuses on developing data-driven and computational solutions for real-world challenges involving energy efficiency, environmental sustainability, telecommunications, agriculture, intelligent systems, and sustainable development.
 
-His research focuses on developing **data-driven and computational solutions** for real-world challenges involving energy efficiency, environmental sustainability, telecommunications, agriculture, intelligent systems, and sustainable development.
+He currently serves as Director of KGS – Academic Support Services at Monroe University, supporting academic research, quantitative analysis, interdisciplinary scholarship, technology education, and research development.
 
-He currently serves as **Director of KGS – Academic Support Services at Monroe University**, supporting academic research, quantitative analysis, interdisciplinary scholarship, technology education, and research development.
+Research philosophy: Transform data into knowledge, knowledge into innovation, and innovation into meaningful impact.
 
-> **Research philosophy:** Transform data into knowledge, knowledge into innovation, and innovation into meaningful impact.
-
-</td>
-
-<td width="33%" align="center" valign="middle">
-
-<img
-src="https://github.com/arunamjarju.png"
-width="210"
-alt="Dr. Aruna M. Jarju"
-/>
-
-<br>
-
-### Dr. Aruna M. Jarju
-
-**Monroe University**
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
 <p align="center">
 
-### 📊 DATA → 💡 INSIGHT → ⚙️ INNOVATION → 🌍 IMPACT
+📊 DATA → 💡 INSIGHT → ⚙️ INNOVATION → 🌍 IMPACT
 
 </p>
 
----
-
 <a id="research"></a>
 
-## 🔬 Research Portfolio
+<h2 align="center">🔬 &nbsp; RESEARCH PORTFOLIO</h2>
 
 <p align="center">
 
-**Interdisciplinary research connecting computing, data, sustainability, and real-world applications**
+Interdisciplinary research connecting computing, data, sustainability, and real-world applications
 
 </p>
 
@@ -136,58 +122,73 @@ alt="Dr. Aruna M. Jarju"
 
 <td width="33%" align="center" valign="top">
 
-### 🤖
-## AI & Data Science
+<div align="center">
+
+🤖
+
+AI & Data Science
+
+</div>
 
 Machine learning, predictive analytics, statistical modeling, intelligent systems, and data-driven decision support.
 
 <br>
 
-`Machine Learning`
+Machine Learning
 
-`Data Science`
+Data Science
 
-`Predictive Analytics`
+Predictive Analytics
 
-`Statistics`
+Statistics
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### 🛰️
-## GIS & Remote Sensing
+<div align="center">
+
+🛰️
+
+GIS & Remote Sensing
+
+</div>
 
 Spatial analytics, Earth observation, NDVI, land-use analysis, vegetation monitoring, and environmental intelligence.
 
 <br>
 
-`GIS`
+GIS
 
-`QGIS`
+QGIS
 
-`Remote Sensing`
+Remote Sensing
 
-`NDVI`
+NDVI
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### ☀️
-## Renewable Energy
+<div align="center">
+
+☀️
+
+Renewable Energy
+
+</div>
 
 Solar PV, biogas resources, energy analytics, sustainable infrastructure, and environmental sustainability.
 
 <br>
 
-`Solar Energy`
+Solar Energy
 
-`Solar PV`
+Solar PV
 
-`Biogas`
+Biogas
 
-`Sustainability`
+Sustainability
 
 </td>
 
@@ -203,46 +204,61 @@ Solar PV, biogas resources, energy analytics, sustainable infrastructure, and en
 
 <td width="33%" align="center" valign="top">
 
-### 🌱
-## Green Computing
+<div align="center">
+
+🌱
+
+Green Computing
+
+</div>
 
 Energy-aware computing, computational efficiency, resource optimization, and sustainable high-performance computing.
 
-`Green Computing`
+Green Computing
 
-`HPC`
+HPC
 
-`Optimization`
+Optimization
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### 📡
-## Telecommunications
+<div align="center">
+
+📡
+
+Telecommunications
+
+</div>
 
 Cellular connectivity, network performance, telecommunications infrastructure, and spatial network analysis.
 
-`Network Analytics`
+Network Analytics
 
-`Connectivity`
+Connectivity
 
-`Telecommunications`
+Telecommunications
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### 🎓
-## Computing Education
+<div align="center">
+
+🎓
+
+Computing Education
+
+</div>
 
 Technology education, quantitative methods, academic research support, and interdisciplinary scholarship.
 
-`Research Methods`
+Research Methods
 
-`Education`
+Education
 
-`Academic Support`
+Academic Support
 
 </td>
 
@@ -258,37 +274,27 @@ Technology education, quantitative methods, academic research support, and inter
 
 <br>
 
-### 🤖 Artificial Intelligence & Machine Learning
+🤖 Artificial Intelligence & Machine Learning
 
 Machine learning, intelligent systems, statistical learning, predictive modeling, and computational approaches for decision support.
 
----
-
-### 📊 Data Science & Analytics
+📊 Data Science & Analytics
 
 Statistical analysis, predictive analytics, data visualization, quantitative research, and evidence-based decision-making.
 
----
-
-### 🛰️ GIS & Earth Observation
+🛰️ GIS & Earth Observation
 
 Geospatial analysis, remote sensing, NDVI, vegetation monitoring, environmental assessment, and land-use research.
 
----
-
-### 🌱 Sustainable Computing
+🌱 Sustainable Computing
 
 Green computing, energy-aware systems, cloud computing, high-performance computing, and computational optimization.
 
----
-
-### ☀️ Renewable Energy
+☀️ Renewable Energy
 
 Solar photovoltaic systems, biogas resources, institutional energy assessment, and sustainable infrastructure.
 
----
-
-### 📡 Telecommunications
+📡 Telecommunications
 
 Network performance analysis, cellular connectivity, regional telecommunications systems, and spatial network research.
 
@@ -296,15 +302,13 @@ Network performance analysis, cellular connectivity, regional telecommunications
 
 <br>
 
----
-
 <a id="projects"></a>
 
-## 🚀 Selected Research & Projects
+<h2 align="center">🚀 &nbsp; SELECTED RESEARCH & PROJECTS</h2>
 
 <p align="center">
 
-**Applied Research · Computational Methods · Sustainable Impact**
+Applied Research · Computational Methods · Sustainable Impact
 
 </p>
 
@@ -316,25 +320,25 @@ Network performance analysis, cellular connectivity, regional telecommunications
 
 <td width="50%" valign="top">
 
-### 🌿 Rainfall–NDVI & Vegetation Analysis
+<h3 align="center">🌿 Rainfall–NDVI & Vegetation Analysis</h3>
 
 Geospatial and remote-sensing research examining relationships among rainfall variability, vegetation dynamics, and environmental conditions.
 
-**Research Methods**
+Research Methods
 
-`GIS` · `NDVI` · `Remote Sensing`
+GIS · NDVI · Remote Sensing
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ Energy-Aware & Green Scheduling
+<h3 align="center">⚡ Energy-Aware & Green Scheduling</h3>
 
 Computational research focused on improving system performance while reducing energy consumption and environmental impact.
 
-**Research Methods**
+Research Methods
 
-`Green Computing` · `HPC` · `Optimization`
+Green Computing · HPC · Optimization
 
 </td>
 
@@ -344,25 +348,25 @@ Computational research focused on improving system performance while reducing en
 
 <td width="50%" valign="top">
 
-### 📡 Mobile Network Performance — The Gambia
+<h3 align="center">📡 Mobile Network Performance — The Gambia</h3>
 
 Quantitative and geospatial investigation of cellular network performance, regional connectivity, and telecommunications infrastructure.
 
-**Research Methods**
+Research Methods
 
-`Telecommunications` · `GIS` · `Analytics`
+Telecommunications · GIS · Analytics
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☀️ Institutional Solar PV Load Analysis
+<h3 align="center">☀️ Institutional Solar PV Load Analysis</h3>
 
 Assessment of institutional energy demand and opportunities for sustainable photovoltaic infrastructure.
 
-**Research Methods**
+Research Methods
 
-`Solar PV` · `Energy Analytics`
+Solar PV · Energy Analytics
 
 </td>
 
@@ -372,25 +376,25 @@ Assessment of institutional energy demand and opportunities for sustainable phot
 
 <td width="50%" valign="top">
 
-### ♻️ Biogas Resource Assessment — The Gambia
+<h3 align="center">♻️ Biogas Resource Assessment — The Gambia</h3>
 
 Investigation of organic resources and their potential contribution to renewable-energy development.
 
-**Research Methods**
+Research Methods
 
-`Biogas` · `Renewable Energy`
+Biogas · Renewable Energy
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌾 Improved Indirect Solar Mango Dryer
+<h3 align="center">🌾 Improved Indirect Solar Mango Dryer</h3>
 
 Applied renewable-energy research combining solar technology, agriculture, engineering, and post-harvest preservation.
 
-**Research Methods**
+Research Methods
 
-`Solar Energy` · `Agriculture`
+Solar Energy · Agriculture
 
 </td>
 
@@ -400,25 +404,25 @@ Applied renewable-energy research combining solar technology, agriculture, engin
 
 <td width="50%" valign="top">
 
-### 🗺️ GIS Land-Use / Land-Cover Analysis
+<h3 align="center">🗺️ GIS Land-Use / Land-Cover Analysis</h3>
 
 Application of geospatial methods for understanding land-use patterns, environmental conditions, and geographic change.
 
-**Research Methods**
+Research Methods
 
-`GIS` · `Spatial Analysis` · `Remote Sensing`
+GIS · Spatial Analysis · Remote Sensing
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning & Data Analytics
+<h3 align="center">🧠 Machine Learning & Data Analytics</h3>
 
 Application of statistical and machine-learning techniques to interdisciplinary datasets and real-world research problems.
 
-**Research Methods**
+Research Methods
 
-`Machine Learning` · `Data Science`
+Machine Learning · Data Science
 
 </td>
 
@@ -428,15 +432,13 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <br>
 
----
-
 <a id="toolkit"></a>
 
-## 🛠️ Research & Technical Toolkit
+<h2 align="center">🛠️ &nbsp; RESEARCH & TECHNICAL TOOLKIT</h2>
 
 <div align="center">
 
-### 💻 Programming & Data
+💻 Programming & Data
 
 <img src="https://img.shields.io/badge/Python-EAF4FF?style=for-the-badge&logo=python&logoColor=3776AB">
 
@@ -446,7 +448,7 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <br><br>
 
-### 🤖 Artificial Intelligence & Analytics
+🤖 Artificial Intelligence & Analytics
 
 <img src="https://img.shields.io/badge/Machine%20Learning-ECFDF5?style=for-the-badge">
 
@@ -458,7 +460,7 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <br><br>
 
-### 🗺️ GIS & Environmental Intelligence
+🗺️ GIS & Environmental Intelligence
 
 <img src="https://img.shields.io/badge/QGIS-F2FCEB?style=for-the-badge&logo=qgis&logoColor=589632">
 
@@ -470,7 +472,7 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <br><br>
 
-### 📊 Visualization & Computing
+📊 Visualization & Computing
 
 <img src="https://img.shields.io/badge/Power%20BI-FFFBEA?style=for-the-badge&logo=powerbi&logoColor=B89B00">
 
@@ -484,37 +486,33 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <br>
 
----
-
-## 🌍 Research Framework
+<h2 align="center">🌍 &nbsp; RESEARCH FRAMEWORK</h2>
 
 <div align="center">
 
-### 🤖 Artificial Intelligence & Machine Learning
+🤖 Artificial Intelligence & Machine Learning
 
 ⬇
 
-### 📊 Data Science & Analytics
+📊 Data Science & Analytics
 
 ⬇
 
-### 🛰️ GIS · ☀️ Energy · 🌱 Environment · 📡 Telecommunications
+🛰️ GIS · ☀️ Energy · 🌱 Environment · 📡 Telecommunications
 
 ⬇
 
-### 🔬 Interdisciplinary Applied Research
+🔬 Interdisciplinary Applied Research
 
 ⬇
 
-## 🌍 Sustainable Real-World Impact
+🌍 Sustainable Real-World Impact
 
 </div>
 
 <br>
 
----
-
-## 📌 Current Research Interests
+<h2 align="center">📌 &nbsp; CURRENT RESEARCH INTERESTS</h2>
 
 <table>
 
@@ -522,21 +520,29 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <td width="50%" valign="top">
 
-- 🤖 AI for decision support
-- 📊 Predictive analytics
-- 🌱 Energy-efficient computing
-- ☀️ Renewable-energy analytics
-- 🛰️ GIS & Earth observation
+🤖 AI for decision support
+
+📊 Predictive analytics
+
+🌱 Energy-efficient computing
+
+☀️ Renewable-energy analytics
+
+🛰️ GIS & Earth observation
 
 </td>
 
 <td width="50%" valign="top">
 
-- 🌦️ Climate & vegetation analytics
-- 📡 Telecommunications
-- 🌾 Sustainable agriculture technology
-- ☁️ Cloud & high-performance computing
-- 🎓 Computing education
+🌦️ Climate & vegetation analytics
+
+📡 Telecommunications
+
+🌾 Sustainable agriculture technology
+
+☁️ Cloud & high-performance computing
+
+🎓 Computing education
 
 </td>
 
@@ -544,15 +550,13 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 </table>
 
----
-
 <a id="profiles"></a>
 
-## 🎓 Academic & Professional Profiles
+<h2 align="center">🎓 &nbsp; ACADEMIC & PROFESSIONAL PROFILES</h2>
 
 <p align="center">
 
-### Explore Publications · Research · Professional Activity
+📚 Explore Publications · Research · Professional Activity
 
 <br>
 
@@ -584,17 +588,15 @@ Application of statistical and machine-learning techniques to interdisciplinary 
 
 <br>
 
----
-
 <a id="collaboration"></a>
 
-## 🤝 Research Collaboration
+<h2 align="center">🤝 &nbsp; RESEARCH COLLABORATION</h2>
 
 <p align="center">
 
-### Open to interdisciplinary and international research collaboration
+🌐 Open to interdisciplinary and international research collaboration
 
-I welcome opportunities to collaborate with **researchers, universities, students, industry partners, government organizations, and international institutions**.
+I welcome opportunities to collaborate with researchers, universities, students, industry partners, government organizations, and international institutions.
 
 <br>
 
@@ -626,13 +628,11 @@ I welcome opportunities to collaborate with **researchers, universities, student
 
 <br>
 
----
-
 <div align="center">
 
-### 🌍 Research · Innovation · Sustainability · Impact
+🌍 Research · Innovation · Sustainability · Impact
 
-**Advancing interdisciplinary research through data-driven and computational approaches.**
+Advancing interdisciplinary research through data-driven and computational approaches.
 
 <br>
 
