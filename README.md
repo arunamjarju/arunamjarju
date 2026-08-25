@@ -1,63 +1,81 @@
+
 <!-- ========================================================= -->
 <!--             DR. ARUNA M. JARJU | GITHUB PROFILE           -->
 <!-- ========================================================= -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arunamjarju/arunamjarju/main/hero-banner.png"
+    width="100%"
+    alt="Dr. Aruna M. Jarju Research Portfolio"
+  />
+</p>
 
-# Dr. Aruna M. Jarju
+<p align="center">
+  <img
+    src="https://github.com/arunamjarju.png"
+    width="165"
+    alt="Dr. Aruna M. Jarju"
+  />
+</p>
 
-<img src="https://github.com/arunamjarju.png" width="175" alt="Dr. Aruna M. Jarju">
+<h1 align="center">Dr. Aruna M. Jarju</h1>
 
-<br><br>
+<p align="center">
+  <strong>Researcher · Data Scientist · Educator</strong>
+</p>
 
-### Researcher · Data Scientist · Educator
+<p align="center">
+  Director, <strong>KGS – Academic Support Services</strong><br>
+  Monroe University
+</p>
 
-**Director, KGS – Academic Support Services | Monroe University**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=3B8795&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Science+%26+Predictive+Analytics;GIS+%26+Remote+Sensing;Green+%26+Sustainable+Computing;Renewable+Energy+%26+Environmental+Research"
+    alt="Research Areas"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="#about">
+    <img src="https://img.shields.io/badge/ABOUT-F0F9FF?style=for-the-badge">
+  </a>
+  <a href="#research">
+    <img src="https://img.shields.io/badge/RESEARCH-ECFEFF?style=for-the-badge">
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/PROJECTS-F0FDFA?style=for-the-badge">
+  </a>
+  <a href="#toolkit">
+    <img src="https://img.shields.io/badge/TOOLKIT-F7FEE7?style=for-the-badge">
+  </a>
+  <a href="#profiles">
+    <img src="https://img.shields.io/badge/PROFILES-EFF6FF?style=for-the-badge">
+  </a>
+  <a href="#collaboration">
+    <img src="https://img.shields.io/badge/COLLABORATE-ECFDF5?style=for-the-badge">
+  </a>
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=268CA3&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Science+%26+Predictive+Analytics;GIS+%26+Remote+Sensing;Green+%26+Sustainable+Computing;Renewable+Energy+%26+Environmental+Research" alt="Research Areas">
-
-<br>
-
-### Research · Innovation · Sustainability · Impact
-
-<br>
-
-<a href="#about">
-<img src="https://img.shields.io/badge/ABOUT-F0F9FF?style=for-the-badge">
-</a>
-<a href="#research">
-<img src="https://img.shields.io/badge/RESEARCH-ECFEFF?style=for-the-badge">
-</a>
-<a href="#projects">
-<img src="https://img.shields.io/badge/PROJECTS-F0FDFA?style=for-the-badge">
-</a>
-<a href="#expertise">
-<img src="https://img.shields.io/badge/EXPERTISE-F7FEE7?style=for-the-badge">
-</a>
-<a href="#profiles">
-<img src="https://img.shields.io/badge/PROFILES-EFF6FF?style=for-the-badge">
-</a>
-
-<br><br>
-
-<a href="https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
-</a>
-<a href="https://orcid.org/0009-0001-1806-5983">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/aruna-m-jarju-bs-bba-mba-ph-d-92165573/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="https://independent.academia.edu/ArunaMJarju">
-<img src="https://img.shields.io/badge/Academia.edu-FFFFFF?style=flat-square&logo=academia&logoColor=41454A">
-</a>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0001-1806-5983">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/aruna-m-jarju-bs-bba-mba-ph-d-92165573/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://independent.academia.edu/ArunaMJarju">
+    <img src="https://img.shields.io/badge/Academia.edu-666666?style=flat-square">
+  </a>
+</p>
 
 ---
 
@@ -67,53 +85,32 @@
 
 ## About Dr. Jarju
 
-### Data. Intelligence. Sustainability. Impact.
+### Research at the intersection of data, technology, and sustainability
 
 </div>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<p align="center">
+Dr. Aruna M. Jarju is a researcher, data scientist, and educator whose work connects
+<strong>Artificial Intelligence, Data Science, Sustainable Computing, Renewable Energy,
+GIS, Remote Sensing, Telecommunications, and Applied Research.</strong>
+</p>
 
-### Research Profile
+<p align="center">
+His research applies computational and data-driven methods to practical challenges in
+<strong>energy, environment, telecommunications, agriculture, intelligent systems, and sustainable development.</strong>
+</p>
 
-Dr. Aruna M. Jarju is a **researcher, data scientist, and educator** whose work bridges advanced computing with practical challenges in sustainability, environmental analysis, energy, telecommunications, and intelligent systems.
-
-His research interests span **Artificial Intelligence, Machine Learning, Data Science, Sustainable Computing, Renewable Energy, GIS, Remote Sensing, Telecommunications, and Applied Research**.
-
-He serves as **Director of KGS – Academic Support Services at Monroe University**, supporting academic research, quantitative analysis, technology education, interdisciplinary scholarship, and research development.
-
-</td>
-
-<td width="38%" valign="middle" align="center">
-
-### Current Focus
-
-`Artificial Intelligence`
-
-`Data Science`
-
-`Green Computing`
-
-`GIS & Remote Sensing`
-
-`Renewable Energy`
-
-`Telecommunications`
-
-`Computing Education`
-
-</td>
-</tr>
-</table>
+<p align="center">
+He currently serves as <strong>Director of KGS – Academic Support Services at Monroe University</strong>,
+supporting academic research, quantitative analysis, technology education, interdisciplinary scholarship,
+and research development.
+</p>
 
 <br>
 
-<div align="center">
-
-### DATA → INSIGHT → INNOVATION → IMPACT
-
-</div>
+<p align="center">
+  <strong>DATA → INSIGHT → INNOVATION → IMPACT</strong>
+</p>
 
 ---
 
@@ -121,26 +118,33 @@ He serves as **Director of KGS – Academic Support Services at Monroe Universit
 
 <div align="center">
 
-# Research in Focus
+## Research in Focus
 
-*Computational approaches for sustainable and data-driven solutions*
-
-<br>
-
-<img src="https://img.shields.io/badge/AI%20%26%20MACHINE%20LEARNING-EAF7FB?style=for-the-badge&logoColor=267A91">
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-EEF7FF?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/GIS%20%26%20REMOTE%20SENSING-EDF9F2?style=for-the-badge">
-<img src="https://img.shields.io/badge/RENEWABLE%20ENERGY-F7FBEF?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/GREEN%20COMPUTING-F0FAF4?style=for-the-badge">
-<img src="https://img.shields.io/badge/TELECOMMUNICATIONS-F2F7FB?style=for-the-badge">
+**Three major interdisciplinary research streams**
 
 </div>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arunamjarju/arunamjarju/main/ai-card.png"
+    width="31%"
+    alt="AI and Data Science"
+  />
+  &nbsp;
+  <img
+    src="https://raw.githubusercontent.com/arunamjarju/arunamjarju/main/gis-card.png"
+    width="31%"
+    alt="GIS and Earth Observation"
+  />
+  &nbsp;
+  <img
+    src="https://raw.githubusercontent.com/arunamjarju/arunamjarju/main/energy-card.png"
+    width="31%"
+    alt="Renewable Energy"
+  />
+</p>
 
 <br>
 
@@ -153,15 +157,10 @@ He serves as **Director of KGS – Academic Support Services at Monroe Universit
 
 Machine learning, predictive analytics, statistical modeling, intelligent systems, and data-driven decision support.
 
-**Focus**
-
-`Machine Learning`
-
-`Predictive Analytics`
-
+`Machine Learning`  
+`Data Science`  
+`Predictive Analytics`  
 `Statistical Analysis`
-
-`Data Analytics`
 
 </td>
 
@@ -171,14 +170,9 @@ Machine learning, predictive analytics, statistical modeling, intelligent system
 
 GIS, remote sensing, vegetation monitoring, environmental analysis, NDVI, and spatial intelligence.
 
-**Focus**
-
-`GIS`
-
-`QGIS`
-
-`Remote Sensing`
-
+`GIS`  
+`QGIS`  
+`Remote Sensing`  
 `NDVI`
 
 </td>
@@ -187,16 +181,11 @@ GIS, remote sensing, vegetation monitoring, environmental analysis, NDVI, and sp
 
 ### Sustainable Technology
 
-Green computing, renewable energy, solar technologies, energy efficiency, and sustainable infrastructure.
+Green computing, renewable energy, energy efficiency, and sustainable infrastructure.
 
-**Focus**
-
-`Green Computing`
-
-`Solar PV`
-
-`Biogas`
-
+`Green Computing`  
+`Solar PV`  
+`Biogas`  
 `Sustainability`
 
 </td>
@@ -206,34 +195,19 @@ Green computing, renewable energy, solar technologies, energy efficiency, and su
 
 <br>
 
-<details>
-<summary><strong>Explore all research areas</strong></summary>
+<details open>
+<summary><strong>Explore additional research domains</strong></summary>
 
 <br>
 
-### Artificial Intelligence & Machine Learning
+### Telecommunications & Network Analytics
+Network performance, cellular connectivity, geospatial network analysis, and telecommunications research.
 
-Research involving machine learning, intelligent systems, predictive analytics, computational modeling, and data-driven decision support.
+### Computing Education & Academic Research
+Research methodology, quantitative methods, academic research support, technology education, and interdisciplinary scholarship.
 
-### Green & Energy-Aware Computing
-
-Computational approaches designed to improve performance while reducing energy consumption and environmental impact.
-
-### GIS & Remote Sensing
-
-Application of geospatial technologies and Earth-observation data to environmental monitoring, vegetation analysis, and land-use research.
-
-### Renewable Energy
-
-Research involving solar energy, photovoltaic systems, biogas resources, sustainable infrastructure, and energy analytics.
-
-### Telecommunications
-
-Quantitative and spatial analysis of network performance, cellular connectivity, and telecommunications infrastructure.
-
-### Computing Education
-
-Technology education, quantitative research, academic research support, and interdisciplinary scholarship.
+### Environmental & Climate Analytics
+Rainfall variability, vegetation dynamics, land-use analysis, and environmental data interpretation.
 
 </details>
 
@@ -243,125 +217,89 @@ Technology education, quantitative research, academic research support, and inte
 
 <div align="center">
 
-# Featured Research & Projects
+## Featured Research & Projects
 
-**Applied research connecting technology with real-world challenges**
+**Applied research · Data-driven methods · Sustainable impact**
 
 </div>
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### Rainfall–NDVI & Vegetation Analysis
 
-Investigation of rainfall variability and vegetation dynamics using geospatial and remote-sensing techniques.
+Geospatial and remote-sensing research examining rainfall variability, vegetation dynamics, and environmental conditions.
 
-`GIS` `NDVI` `Remote Sensing`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Energy-Aware & Green Scheduling
-
-Computational strategies designed to improve system performance while reducing energy consumption.
-
-`Green Computing` `HPC` `Optimization`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Mobile Network Performance
-
-Quantitative and geospatial analysis of cellular network performance and regional connectivity in **The Gambia**.
-
-`Telecommunications` `GIS` `Analytics`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Institutional Solar PV Analysis
-
-Assessment of institutional energy requirements and opportunities for sustainable photovoltaic infrastructure.
-
-`Solar PV` `Energy Analytics`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Biogas Resource Assessment
-
-Research examining organic resources and their potential contribution to renewable-energy development in **The Gambia**.
-
-`Biogas` `Renewable Energy`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Improved Indirect Solar Mango Dryer
-
-Applied research combining renewable energy, agricultural technology, engineering, and sustainable preservation.
-
-`Solar Energy` `Agriculture`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### GIS Land-Use Analysis
-
-Geospatial approaches for understanding land-use patterns, environmental conditions, and geographic change.
-
-`GIS` `Spatial Analysis`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Machine Learning & Data Analytics
-
-Application of statistical and machine-learning approaches to interdisciplinary datasets and real-world research problems.
-
-`Machine Learning` `Data Science`
-
-</td>
-
-</tr>
-</table>
+`GIS` · `NDVI` · `Remote Sensing` · `Environmental Analytics`
 
 ---
 
-<a id="expertise"></a>
+### Energy-Aware & Green Scheduling
+
+Computational research focused on improving system performance while reducing energy consumption and environmental impact.
+
+`Green Computing` · `HPC` · `Optimization` · `Energy Efficiency`
+
+---
+
+### Mobile Network Performance — The Gambia
+
+Quantitative and geospatial analysis of cellular network performance, regional connectivity, and telecommunications infrastructure.
+
+`Telecommunications` · `Network Analytics` · `GIS`
+
+---
+
+### Institutional Solar PV Load Analysis
+
+Assessment of institutional energy demand and opportunities for sustainable photovoltaic infrastructure.
+
+`Solar PV` · `Energy Analytics` · `Sustainability`
+
+---
+
+### Biogas Resource Assessment — The Gambia
+
+Investigation of organic resources and their potential contribution to renewable-energy development.
+
+`Biogas` · `Renewable Energy` · `Resource Assessment`
+
+---
+
+### Improved Indirect Solar Mango Dryer
+
+Applied renewable-energy research combining solar technology, agriculture, engineering, and sustainable post-harvest preservation.
+
+`Solar Energy` · `Agriculture` · `Applied Research`
+
+---
+
+### GIS Land-Use / Land-Cover Analysis
+
+Application of geospatial methods for understanding land-use patterns, environmental conditions, and geographic change.
+
+`GIS` · `Spatial Analysis` · `Remote Sensing`
+
+---
+
+### Machine Learning & Data Analytics
+
+Application of statistical and machine-learning approaches to interdisciplinary research problems and real-world datasets.
+
+`Machine Learning` · `Data Science` · `Analytics`
+
+---
+
+<a id="toolkit"></a>
 
 <div align="center">
 
-# Research & Technical Toolkit
+## Research & Technical Toolkit
 
 ### Programming & Data
 
 <img src="https://img.shields.io/badge/Python-EAF4FF?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/R-EEF4FB?style=for-the-badge&logo=r&logoColor=276DC3">
-<img src="https://img.shields.io/badge/SQL-F1F5F9?style=for-the-badge&logo=database&logoColor=46758C">
+<img src="https://img.shields.io/badge/SQL-F1F5F9?style=for-the-badge">
 
 <br><br>
 
@@ -396,23 +334,21 @@ Application of statistical and machine-learning approaches to interdisciplinary 
 
 <div align="center">
 
-# Research Ecosystem
+## Research Framework
 
-<br>
-
-### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+### Artificial Intelligence & Machine Learning
 
 ↓
 
-### DATA SCIENCE & ANALYTICS
+### Data Science & Analytics
 
 ↓
 
-### GIS · ENERGY · ENVIRONMENT · TELECOMMUNICATIONS
+### GIS · Environment · Energy · Telecommunications
 
 ↓
 
-### INTERDISCIPLINARY APPLIED RESEARCH
+### Interdisciplinary Applied Research
 
 ↓
 
@@ -426,9 +362,9 @@ Application of statistical and machine-learning approaches to interdisciplinary 
 
 <div align="center">
 
-# Academic & Research Profiles
+## Academic & Professional Profiles
 
-*Explore publications, scholarly activity, and professional work.*
+*Publications, scholarly identity, and professional connections.*
 
 <br>
 
@@ -453,7 +389,7 @@ Application of statistical and machine-learning approaches to interdisciplinary 
 <br><br>
 
 <a href="https://github.com/arunamjarju?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20RESEARCH%20REPOSITORIES-ECFEFF?style=for-the-badge&logo=github&logoColor=267A91">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-ECFEFF?style=for-the-badge&logo=github&logoColor=267A91">
 </a>
 
 </div>
@@ -464,11 +400,11 @@ Application of statistical and machine-learning approaches to interdisciplinary 
 
 <div align="center">
 
-# Research Collaboration
+## Research Collaboration
 
 ### Open to interdisciplinary research and academic collaboration
 
-I welcome opportunities to collaborate with **researchers, universities, students, industry partners, government organizations, and international institutions**.
+I welcome collaboration with **researchers, universities, students, industry partners, government organizations, and international institutions**.
 
 <br>
 
