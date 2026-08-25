@@ -1,23 +1,20 @@
 <!-- ========================================================= -->
+
 <!--                 DR. ARUNA M. JARJU                        -->
+
 <!--              ACADEMIC RESEARCH PORTFOLIO                  -->
+
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=280&text=DR.%20ARUNA%20M.%20JARJU&fontSize=42&fontAlignY=42&desc=Researcher%20%7C%20Data%20Scientist%20%7C%20Educator&descAlignY=62&animation=fadeIn&color=0:071426,50:123456,100:0B7285&fontColor=FFFFFF&descColor=D6F5FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=DR.%20ARUNA%20M.%20JARJU&fontSize=46&fontAlignY=38&desc=RESEARCH%20%E2%80%A2%20DATA%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20SUSTAINABILITY&descAlignY=57&animation=fadeIn&color=0:071426,45:123B56,75:0E6673,100:0B7285&fontColor=FFFFFF&descColor=D9F3F5"
     width="100%"
-    alt="Dr. Aruna M. Jarju"
+    alt="Dr. Aruna M. Jarju — Academic Research Portfolio"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github.com/arunamjarju.png"
-    width="180"
-    alt="Dr. Aruna M. Jarju"
-  />
-</p>
+
 
 <h1 align="center">Dr. Aruna M. Jarju</h1>
 
@@ -93,8 +90,6 @@
 
 <br>
 
----
-
 <a id="about"></a>
 
 <h2 align="center">About</h2>
@@ -130,8 +125,6 @@ technology education, and research development.
 </p>
 
 <br>
-
----
 
 <h2 align="center">Research Landscape</h2>
 
@@ -172,8 +165,6 @@ Artificial Intelligence &nbsp; • &nbsp;
 Data Analytics
 </p>
 
----
-
 <a id="research"></a>
 
 <h2 align="center">Research Domains</h2>
@@ -195,10 +186,10 @@ data-driven decision support, and interdisciplinary computational research.
 
 <br><br>
 
-`Machine Learning` &nbsp;
-`Data Science` &nbsp;
-`Predictive Analytics` &nbsp;
-`Statistical Analysis`
+Machine Learning  
+Data Science  
+Predictive Analytics  
+Statistical Analysis
 
 </details>
 
@@ -214,10 +205,10 @@ resource optimization, and environmentally responsible digital infrastructure.
 
 <br><br>
 
-`Green Computing` &nbsp;
-`HPC` &nbsp;
-`Optimization` &nbsp;
-`Energy Efficiency`
+Green Computing  
+HPC  
+Optimization  
+Energy Efficiency
 
 </details>
 
@@ -234,11 +225,11 @@ and climate-related research.
 
 <br><br>
 
-`GIS` &nbsp;
-`QGIS` &nbsp;
-`Remote Sensing` &nbsp;
-`NDVI` &nbsp;
-`Spatial Analytics`
+GIS  
+QGIS  
+Remote Sensing  
+NDVI  
+Spatial Analytics
 
 </details>
 
@@ -254,10 +245,10 @@ energy analytics, sustainable infrastructure, and renewable-energy applications.
 
 <br><br>
 
-`Solar Energy` &nbsp;
-`Biogas` &nbsp;
-`Energy Analytics` &nbsp;
-`Sustainability`
+Solar Energy  
+Biogas  
+Energy Analytics  
+Sustainability
 
 </details>
 
@@ -273,10 +264,10 @@ regional connectivity, and telecommunications infrastructure.
 
 <br><br>
 
-`Telecommunications` &nbsp;
-`Network Analytics` &nbsp;
-`Connectivity` &nbsp;
-`Spatial Analysis`
+Telecommunications  
+Network Analytics  
+Connectivity  
+Spatial Analysis
 
 </details>
 
@@ -292,15 +283,13 @@ quantitative methods, interdisciplinary scholarship, and student research develo
 
 <br><br>
 
-`Computing Education` &nbsp;
-`Research Methods` &nbsp;
-`Academic Research`
+Computing Education  
+Research Methods  
+Academic Research
 
 </details>
 
 <br>
-
----
 
 <a id="projects"></a>
 
@@ -312,101 +301,85 @@ quantitative methods, interdisciplinary scholarship, and student research develo
 
 <br>
 
-### Rainfall–NDVI & Vegetation Analysis
+Rainfall–NDVI & Vegetation Analysis
 
 Geospatial and remote-sensing research investigating relationships among
 rainfall variability, vegetation dynamics, and environmental conditions.
 
-**Research focus:**  
-`GIS` · `NDVI` · `Remote Sensing` · `Environmental Analytics`
+Research focus:
+GIS · NDVI · Remote Sensing · Environmental Analytics
 
 <br>
 
----
-
-### Energy-Aware & Green Scheduling
+Energy-Aware & Green Scheduling
 
 Research into computational strategies designed to improve system performance
 while reducing energy consumption and environmental impact.
 
-**Research focus:**  
-`Green Computing` · `HPC` · `Optimization` · `Energy Efficiency`
+Research focus:
+Green Computing · HPC · Optimization · Energy Efficiency
 
 <br>
 
----
-
-### Mobile Network Performance — The Gambia
+Mobile Network Performance — The Gambia
 
 Data-driven assessment of cellular network performance, regional connectivity,
 and telecommunications infrastructure using quantitative and spatial methods.
 
-**Research focus:**  
-`Telecommunications` · `Network Analytics` · `GIS`
+Research focus:
+Telecommunications · Network Analytics · GIS
 
 <br>
 
----
-
-### Institutional Solar PV Load Analysis
+Institutional Solar PV Load Analysis
 
 Assessment of institutional energy requirements and opportunities for
 solar photovoltaic systems and sustainable energy infrastructure.
 
-**Research focus:**  
-`Solar PV` · `Energy Analytics` · `Sustainable Infrastructure`
+Research focus:
+Solar PV · Energy Analytics · Sustainable Infrastructure
 
 <br>
 
----
-
-### Biogas Resource Assessment — The Gambia
+Biogas Resource Assessment — The Gambia
 
 Investigation of organic resources and their potential contribution to
 renewable-energy generation and sustainable resource utilization.
 
-**Research focus:**  
-`Biogas` · `Renewable Energy` · `Sustainability`
+Research focus:
+Biogas · Renewable Energy · Sustainability
 
 <br>
 
----
-
-### Improved Indirect Solar Mango Dryer
+Improved Indirect Solar Mango Dryer
 
 Applied research integrating renewable energy, agricultural technology,
 engineering, and sustainable post-harvest preservation.
 
-**Research focus:**  
-`Solar Energy` · `Agriculture` · `Applied Research`
+Research focus:
+Solar Energy · Agriculture · Applied Research
 
 <br>
 
----
-
-### GIS Land-Use / Land-Cover Analysis
+GIS Land-Use / Land-Cover Analysis
 
 Application of geospatial methods to understand land-use patterns,
 environmental conditions, vegetation, and geographic change.
 
-**Research focus:**  
-`GIS` · `Spatial Analysis` · `Remote Sensing`
+Research focus:
+GIS · Spatial Analysis · Remote Sensing
 
 <br>
 
----
-
-### Machine Learning & Data Analytics
+Machine Learning & Data Analytics
 
 Application of statistical and machine-learning methods to interdisciplinary
 research challenges and real-world datasets.
 
-**Research focus:**  
-`Machine Learning` · `Data Science` · `Analytics`
+Research focus:
+Machine Learning · Data Science · Analytics
 
 <br>
-
----
 
 <a id="expertise"></a>
 
@@ -466,8 +439,6 @@ Cloud Computing · High-Performance Computing · Networking
 
 </p>
 
----
-
 <h2 align="center">Research Philosophy</h2>
 
 <br>
@@ -476,53 +447,49 @@ Cloud Computing · High-Performance Computing · Networking
 
 <strong>ARTIFICIAL INTELLIGENCE</strong>
 
-↓  
+↓
 
 <strong>DATA & COMPUTATIONAL SCIENCE</strong>
 
-↓  
+↓
 
 <strong>GIS · ENERGY · ENVIRONMENT · TELECOMMUNICATIONS</strong>
 
-↓  
+↓
 
 <strong>INTERDISCIPLINARY APPLIED RESEARCH</strong>
 
-↓  
+↓
 
-### Sustainable Real-World Impact
+Sustainable Real-World Impact
 
 </p>
 
 <br>
-
----
 
 <h2 align="center">Current Research Interests</h2>
 
 <p align="center">
 
-AI & Machine Learning for Decision Support  
+AI & Machine Learning for Decision Support
 <br>
-Energy-Efficient & Sustainable Computing  
+Energy-Efficient & Sustainable Computing
 <br>
-Renewable-Energy Analytics  
+Renewable-Energy Analytics
 <br>
-GIS & Remote-Sensing Applications  
+GIS & Remote-Sensing Applications
 <br>
-Environmental & Climate Analytics  
+Environmental & Climate Analytics
 <br>
-Telecommunications & Network Performance  
+Telecommunications & Network Performance
 <br>
-Sustainable Infrastructure  
+Sustainable Infrastructure
 <br>
-Technology for Agriculture  
+Technology for Agriculture
 <br>
 Computing Education & Academic Research
 
 </p>
-
----
 
 <a id="profiles"></a>
 
@@ -560,8 +527,6 @@ Computing Education & Academic Research
 
 <br>
 
----
-
 <h2 align="center">Explore My Work</h2>
 
 <p align="center">
@@ -577,8 +542,6 @@ My repositories represent research and project work across
 <strong>AI, data science, GIS, sustainable computing,
 renewable energy, telecommunications, and applied analytics.</strong>
 </p>
-
----
 
 <a id="collaboration"></a>
 
@@ -615,7 +578,7 @@ and international organizations.
 <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;
+ 
 
 <a href="https://scholar.google.com/citations?user=7oB9KCwAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20RESEARCH-111827?style=for-the-badge&logo=googlescholar&logoColor=white">
@@ -625,11 +588,9 @@ and international organizations.
 
 <br>
 
----
-
 <p align="center">
 
-### RESEARCH · DATA · TECHNOLOGY · SUSTAINABILITY
+RESEARCH · DATA · TECHNOLOGY · SUSTAINABILITY
 
 <strong>
 Advancing interdisciplinary research through data-driven and computational approaches.
@@ -638,9 +599,9 @@ Advancing interdisciplinary research through data-driven and computational appro
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=wave&height=130&section=footer&color=0:071426,50:123456,100:0B7285"
-  width="100%"
-  alt="Footer"
+src="https://capsule-render.vercel.app/api?type=wave&height=130&section=footer&color=0:071426,50:123456,100:0B7285"
+width="100%"
+alt="Footer"
 />
 
 </p>
